@@ -141,8 +141,8 @@ Project Link: [https://github.com/Sanjaycodes019/SmartSupply](https://github.com
 
 
 #Team mates that help me to complete this
-1. sanjay gupta
-2. swayam khana
-3. udit gupta
-4. vansh .# SmartSupply2
+1. Sanjay gupta
+2. Swayam khanna
+3. Udit gupta
+4. Vansh ---- Leader
 # SmartSupply2
