@@ -4,6 +4,10 @@ A modern, AI-powered supply chain management dashboard built with React, Tailwin
 
 ![Dashboard Preview](public/dashboard-preview.png)
 
+
+[Watch Demo Video](https://drive.google.com/file/d/1g46A9JA_ksWT07o0y2pk3Ro5pFkYOxB3/view?usp=drive_link)
+
+
 ## Features
 
 - 📊 **Real-time Analytics**: Track sales, inventory, and delivery metrics
@@ -137,6 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Sanjay - [@Sanjaycodes019](https://github.com/Sanjaycodes019)
 
 Project Link: [https://github.com/Sanjaycodes019/SmartSupply](https://github.com/Sanjaycodes019/SmartSupply)
+
+
 
 
 
