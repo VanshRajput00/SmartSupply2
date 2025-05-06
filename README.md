@@ -144,5 +144,5 @@ Project Link: [https://github.com/Sanjaycodes019/SmartSupply](https://github.com
 1. sanjay gupta
 2. swayam khana
 3. udit gupta
-4. and at least but not last the leader Me vansh .# SmartSupply2
+4. vansh .# SmartSupply2
 # SmartSupply2
